@@ -1,2 +1,2 @@
 # Indiastartups
-In this project I used python, pandas,numpy and matplotlib
+In this project I used python, pandas and numpy
